@@ -259,7 +259,7 @@ align-items: center;
 }
 
 .project:hover {
-    box-shadow: 1rem 1rem 1rem #777;
+    box-shadow: 1rem 1rem 1rem #e41c6f;
     transition: box-shadow .3s;
 }
 
